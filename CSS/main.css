@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+h1{
+    justify-content: center;
+
+}
+.anwser1{
+    padding: 1.2%;
+    background-color: rgb(14, 240, 116);
+    
+align-items: center;
+
+}
+.anwser2{
+    padding: 1.2%;
+    position: center;
+    background-color: rgb(64, 156, 187);
+}
+.anwser3{
+    padding: 1.2%;
+    position: center;
+    background-color: rgb(243, 183, 17);
+}
+.anwser4{
+    padding: 1.2%;
+    position: center;
+    background-color: rgb(250, 11, 210);
+}
+.neon {  
+    color: #fff;
+    text-shadow:  0 0 7px #fff, 
+             0 0 10px #fff, 
+             0 0 42px rgb(230, 18, 124),   
+             0 0 77px rgb(230, 18, 124), 
+             0 0 100px rgb(230, 18, 124) 
+}
